@@ -5,7 +5,7 @@
             command line interface / commands
             VSCode introduction creating js files
             
-      Lab 1:
+      [Lab 1](https://pablomluna.github.io/cit281-lab1/):
             install and setup
             practice using software tools / terminal / keyboard shortcuts 
             create first server side js file
