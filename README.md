@@ -1,6 +1,6 @@
 ### CIT 281
 
-- **Project 1:** 
+- **[Project 1](https://pablomluna.github.io/cit281-p1/):** 
   - command line interface / commands
   - VSCode introduction creating js files
             
@@ -10,7 +10,7 @@
    - create first server side js file
    
 &nbsp;
-- **Project 2:**
+- **[Project 2](https://pablomluna.github.io/cit281-p2/):** 
   - using git via command line and VSCode
   - writing / executing / refactoring js code
             
@@ -18,7 +18,7 @@
   - command line for directory / file manipulation + git commands
             
 &nbsp;            
-- **Project 3:**
+- **[Project 3](https://pablomluna.github.io/cit281-p3/):** 
   - interpreting functional descriptions / specifications
   - breaking a project into manageable components
   - practice creating / using code modules + modern js syntax
@@ -32,7 +32,7 @@
   - using module.exports / importing using require
             
 &nbsp;
-- **Project 4:**
+- **[Project 4](https://pablomluna.github.io/cit281-p4/):** 
   - writing / executing node.js REST API server using VSCode
   - working with static data
   - testing code module without using a web server
@@ -47,7 +47,7 @@
   - adding route with query parameters
  
 &nbsp;           
-- **Project 5:**
+- **[Project 5](https://pablomluna.github.io/cit281-p5/):** 
   - working with classes + constructors / methods
   - interpreting existing code to design a new class
   - working with Array map() and forEach() methods + concept of gaming loop
@@ -59,7 +59,7 @@
   - using postman to test server GET routes + POST handling to respond with JSON + POST request
             
 &nbsp;            
-- **Project 6:**
+- **[Project 6](https://pablomluna.github.io/cit281-p6/):** 
   - creating / working classes with inheritance
   - debugging code + more static data 
   - using a generic block of code to process data  
@@ -69,7 +69,7 @@
   - classes overview (creating / testing / adding + delete method)
             
 &nbsp;            
-- **Project 7:**
+- **[Project 7](https://pablomluna.github.io/cit281-p7/):** 
   - working with GitHub repos / pages 
   - create an initial CIT Minor portfolio for labs / projects    
             
