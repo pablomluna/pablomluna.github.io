@@ -90,9 +90,7 @@
 - create Learning Lab course / repo within GitHub account
 - practice exiting / returning to course from repo
 
-
-
-[Link](url) and ![Image](src)
+&nbsp;
 
 ### CIT 381: Coming Fall 2021
 
