@@ -100,7 +100,7 @@ Lab 9:
 
 ### CIT 382: Coming Winter 2022
 
-### CIT 383: Coming Spring 2021
+### CIT 383: Coming Spring 2022
             
             
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
