@@ -1,22 +1,88 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/pablomluna/pablomluna.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### CIT 281
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Project 1:
+            command line interface / commands
+            VSCode introduction creating js files
+            
+      Lab 1:
+            install and setup
+            practice using software tools / terminal / keyboard shortcuts 
+            create first server side js file
+            
+            
+- Project 2:
+            using git via command line and VSCode
+            writing / executing / refactoring js code
+            
+      Lab 2:
+            command line for directory / file manipulation + git commands
+            
+            
+- Project 3:
+            interpreting functional descriptions / specifications
+            breaking a project into manageable components
+            practice creating / using code modules + modern js syntax
+            fastify with the GET verb / routes / query parameters
+            loading a file / using as a web page
+            
+      Lab 3:
+            refactoring js code to use more modern syntax
+            destructuring an object / normal functions into arrow function expressions
+            using for..in with objects / for..of with arrays + spread operator
+            using module.exports / importing using require
+            
 
-- Bulleted
-- List
+- Project 4:
+            writing / executing node.js REST API server using VSCode
+            working with static data
+            testing code module without using a web server
+            fastify with the GET verb / routes / route parameters
+            loading a file / using as a web page
+            using postman to test web server routes + working with JSON        
+            
+      Lab 4: 
+            creating fastify node.js web server + using Node Package Manager (npm)
+            git repo + exclude node_modules folder from git + make commits
+            fix MIME error / test / commit
+            adding route with query parameters
+            
+            
+ Lab 5: 
+            download / install postman + CIT 281 collection / folders
+            Create node.js and fastify server application with GET + respond with JSON
+            using postman to test server GET routes + POST handling to respond with JSON + POST request
+            
+            
+- Project 6:
+            creating / working classes with inheritance
+            debugging code + more static data 
+            using a generic block of code to process data  
+            
+      Lab 6: 
+            join GitHub + intro course 
+            classes overview (creating / testing / adding + delete method)
+            
+            
+- Project 7:
+            working with GitHub repos / pages 
+            create an initial CIT Minor portfolio for labs / projects    
+            
+      Lab 7: 
+            create GitHub organization for CIT Minor + first repository
+            cloning GitHub repository to local system
+            update / commit file to practice error handling
+            push your changes to GitHub
+            
+            
+Lab 8: 
+            install node-fetch package
+            fastify and node-fetch require statements
+            fetch JSONPlaceholder data
+
+Lab 9:  
+            create Learning Lab course / repo within GitHub account
+            practice exiting / returning to course from repo
 
 1. Numbered
 2. List
@@ -25,7 +91,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### CIT 381: Coming Fall 2021
 
+### CIT 382: Coming Winter 2022
+
+### CIT 383: Coming Spring 2021
+            
+            
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
