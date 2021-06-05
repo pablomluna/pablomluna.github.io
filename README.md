@@ -47,8 +47,13 @@
             fix MIME error / test / commit
             adding route with query parameters
             
+- Project 5:
+            working with classes + constructors / methods
+            interpreting existing code to design a new class
+            working with Array map() and forEach() methods + concept of gaming loop
+            executing / debugging / module breakpoints using VSCode
             
- Lab 5: 
+      Lab 5: 
             download / install postman + CIT 281 collection / folders
             Create node.js and fastify server application with GET + respond with JSON
             using postman to test server GET routes + POST handling to respond with JSON + POST request
